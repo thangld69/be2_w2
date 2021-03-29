@@ -1,0 +1,22 @@
+{
+"name": "thangld69/be2_w2",
+"description": "create text",
+"keywords": [
+],
+"authors": [
+{
+"name": "be2",
+"email": "thangld69@gmail.com",
+"homepage": "http://tailieuweb.com"
+}
+],
+"license": "MIT",
+"require": {
+},
+"autoload": {
+"psr-4": {
+"thangld69\\backend2\\": "/"
+}
+},
+"minimum-stability": "dev"
+}
