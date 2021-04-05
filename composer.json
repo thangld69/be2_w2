@@ -11,8 +11,10 @@
 }
 ],
 "license": "MIT",
-"require": {
-},
+"require": {		
+		"dangkhoinguyen/dangkhoibe2": "*",	
+		
+		},
 "autoload": {
 "psr-4": {
 "thangld69\\backend2\\": "/"
