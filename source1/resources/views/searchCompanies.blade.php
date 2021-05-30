@@ -37,6 +37,13 @@
 </div>
 
 <div class="container">
+<div class="form-search">
+    <form action="./searchCompanies" method="get">
+        <input type="text" id="search" name="name">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+   
     <div class="row">
         <table class="table">
             <thead>

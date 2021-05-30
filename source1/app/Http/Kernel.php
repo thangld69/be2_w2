@@ -63,7 +63,8 @@ class Kernel extends HttpKernel
         'signed' => \Illuminate\Routing\Middleware\ValidateSignature::class,
         'throttle' => \Illuminate\Routing\Middleware\ThrottleRequests::class,
         'verified' => \Illuminate\Auth\Middleware\EnsureEmailIsVerified::class,
-        'per_page' => \App\Http\Middleware\PerPage::class,
-        'per_page' => \App\Http\Middleware\trainer_logic::class,
+        // 'per_page' => \App\Http\Middleware\PerPage::class,
+        'trainer_logic' => \App\Http\Middleware\trainer_logic::class,
+        'per_page' => \App\Http\Middleware\search::class,
     ];
 }

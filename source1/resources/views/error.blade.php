@@ -24,7 +24,8 @@
     <nav class="my-2 my-md-0 mr-md-3">
         <a class="p-2 text-dark" href="/companies">Companies</a>
         <a class="p-2 text-dark" href="/trainers">Trainers</a>
-        <a class="p-2 text-dark" href="/search">Search</a>
+        <a class="p-2 text-dark" href="/searchCompanies">Search</a>
+        <a class="p-2 text-dark" href="/categories">Categories</a>
 
     </nav>
 
